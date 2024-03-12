@@ -13,7 +13,7 @@
         <slot />
       </div>
 
-      <small class="mt-5 tracking-wide">{{ new Date().getFullYear() }} &copy; James Nathanael. All Rights Reserved.</small>
+      <small class="mt-5 tracking-wide">{{ new Date().getFullYear() }} &copy; Laravel. All Rights Reserved.</small>
   </div>
 </template>
 
